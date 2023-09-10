@@ -35,7 +35,7 @@ const Index: React.FC = () => {
             </li>
             <li>
               <Link href="https://hrp.funclub.pro/">
-                <a className={styles.header__link}>🐸 Hard RP</a>
+                <a className={styles.header__link}>🐸 Hard&nbsp;RP</a>
               </Link>
             </li>
           </ul>
